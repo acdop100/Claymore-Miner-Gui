@@ -3,7 +3,7 @@ GUI interface for Claymore's Ethereum Dual miner. Still in alpha stages; very ba
 
 You can run this anywhere. When it asks for pathname make sure it is the pathname to the config.txt in the claymore miner folder. Should run on any relatively recent version of the miner.
 
-This program is free software: you can redistribute it and/or modify
+    This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
     (at your option) any later version.
